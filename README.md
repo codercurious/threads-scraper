@@ -1,5 +1,5 @@
 # Meta threads scraper ✅ FREE ✅
-Interested in using this scraper? Get it here: [Meta threads scraper ✅ FREE ✅](https://apify.com/curious_coder/threads-scraper)
+Interested in using this scraper? Get it here: [Meta threads scraper ✅ FREE ✅](https://apify.com/curious_coder/threads-scraper?fpr=ve081&fp_sid=github_threads-scraper)
 ## Threads scraper
 
 This scraper helps you to scrape posts by a threads user
